@@ -58,7 +58,7 @@
 <div id="unity-container">
   <canvas id="unity-canvas"></canvas>
 
-<div id="loading-cover" style="background: url('https://cdn.jsdelivr.net/gh/zx9qv8n4rpl7t6k2m1y/asset@main/Screenshot%202026-03-17%203.01.04%20PM.png') center/cover;">
+<div id="loading-cover" style="background: url('https://cdn.jsdelivr.net/gh/zx9qv8n4rpl7t6k2m1y/asset@main/efacdd67-ec59-4d24-ac43-38698e116ce2.png') center/cover;">
     <div class="circles" id="cuboid_anim">
       <div class="circle1"></div><div class="circle2"></div><div class="circle3"></div>
       <div class="circle4"></div><div class="circle5"></div><div class="circle6"></div>
